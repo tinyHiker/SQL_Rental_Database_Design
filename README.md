@@ -11,7 +11,7 @@ This project features
 
 
 ## Entity Relationship Diagram
-![Example Image](/README_images/Entity_Relationship_Diagram.PNG)
+![Example Image](/README_images/Entity_Relationship_Diagram.png)
 
 
 ## Shell Code Example
